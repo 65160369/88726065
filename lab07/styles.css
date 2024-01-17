@@ -31,7 +31,7 @@ body {
     transition: background-color 0.3s, transform 0.2s;
     }
     li.completed {
-    background-color: #d4edda;
+    background-color: #eddcf3;
     text-decoration: line-through;
     }
     input[type="text"] {
